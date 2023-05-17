@@ -16,14 +16,17 @@
 
 }
 .container .item-1 p{
-    position: relative;
+/*     position: relative;
     left:30px;
-    
+	
+     */
+	text-align:right:
 }
 
 .container .item-2 p{
-    position: relative;
-    left:30px;
+/*     position: relative;
+    left:30px; */
+	text-align:right:
    
 }
 
