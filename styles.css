@@ -15,6 +15,13 @@
     
 
 }
+ .item-1 #name,.item-2 #name{
+	 font-style:italic;
+	 text-align:right;
+	 
+	
+}
+
 
 .container  .item-2 span{
     position: relative;
